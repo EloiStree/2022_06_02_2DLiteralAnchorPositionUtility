@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.2danchorpositionutility",                              
+  "displayName": "2022_06_02_2DAnchorPositionUtility",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Anchor toolbox for 2D Anchor.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2022_06_02_2DLiteralAnchorPositionUtility.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

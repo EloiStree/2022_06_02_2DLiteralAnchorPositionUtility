@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.2danchorpositionutilityEditor",          
+    "references": ["be.eloistree.2danchorpositionutility","be.eloistree.pushtnativewindowinpututility"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
